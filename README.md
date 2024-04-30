@@ -4,6 +4,14 @@
 - 后端：gin+gorm+阿里云oss
 - 数据库：mysql
 ### 本项目截图<br/>
-<img src="https://github.com/IHikari/bookManageSystem/blob/master/preview/image1.png">
-<img src="https://github.com/IHikari/bookManageSystem/blob/master/preview/image2.png">
+<img src="https://github.com/IHikari/bookManageSystem/blob/master/preview/1.png">
+<img src="https://github.com/IHikari/bookManageSystem/blob/master/preview/2.png">
+<img src="https://github.com/IHikari/bookManageSystem/blob/master/preview/3.png">
+<img src="https://github.com/IHikari/bookManageSystem/blob/master/preview/4.png">
+<img src="https://github.com/IHikari/bookManageSystem/blob/master/preview/5.png">
+<img src="https://github.com/IHikari/bookManageSystem/blob/master/preview/6.png">
+
+
+
+
 
